@@ -49,7 +49,7 @@ $Movies = [
         ["title" => "Office Black Belt", "image" => "office_black_belt.jpg"],
         ["title" => "Kill Boksoon", "image" => "kill_boksoon.jpg"],
         ["title" => "Midnight Runners", "image" => "midnight_runners.jpg"],
-        ["title" => "Escape from Mogadishu", "image" => "the_witch_part1.jpg"]
+        ["title" => "Escape from Mogadishu", "image" => "escape_from_mogadishu.jpg"]
     ],
     "Romance" => [
         ["title" => "The 20th Century Girl", "image" => "20th_century_girl.jpg"],
