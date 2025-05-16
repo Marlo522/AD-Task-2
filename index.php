@@ -10,7 +10,7 @@ require_once BASE_PATH . '/components/templates/nav.component.php';
 ?>
 
 <?php
-head('Product List');
+head('Jetflix');
 navHeader($navList);
 ?>
 
