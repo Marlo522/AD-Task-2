@@ -43,6 +43,45 @@ $Series = [
     ]
 ];
 
+$Movies = [
+    "Action" => [
+        ["title" => "Fabricated City", "image" => "fabricated_city.jpg"],
+        ["title" => "Office Black Belt", "image" => "office_black_belt.jpg"],
+        ["title" => "Kill Boksoon", "image" => "kill_boksoon.jpg"],
+        ["title" => "Midnight Runners", "image" => "midnight_runners.jpg"],
+        ["title" => "Escape from Mogadishu", "image" => "the_witch_part1.jpg"]
+    ],
+    "Romance" => [
+        ["title" => "The 20th Century Girl", "image" => "20th_century_girl.jpg"],
+        ["title" => "Love Reset", "image" => "love_reset.jpg"],
+        ["title" => "On Your Wedding Day", "image" => "on_your_wedding_day.jpg"],
+        ["title" => "Love and Leashes", "image" => "love_and_leashes.jpg"],
+        ["title" => "Tune In for Love", "image" => "tune_in_for_love.jpg"]
+    ],
+    "Medical" => [
+        ["title" => "Pandora", "image" => "pandora.jpg"],
+        ["title" => "The Flu", "image" => "the_flu.jpg"],
+        ["title" => "Shutter Island", "image" => "shutter_island.jpg"],
+        ["title" => "Dolittle", "image" => "dolittle.jpg"],
+        ["title" => "Virus", "image" => "virus.jpg"]
+    ],
+    "Comedy" => [
+        ["title" => "Extreme Job", "image" => "extreme_job.jpg"],
+        ["title" => "Confidential Assignment", "image" => "confidential_assignment.jpg"],
+        ["title" => "Pyschokinesis", "image" => "pyschokinesis.jpg"],
+        ["title" => "Dream", "image" => "dream.jpg"],
+        ["title" => "Secret Zoo", "image" => "secret_zoo.jpg"]
+    ],
+    "Thriller" => [
+        ["title" => "Parasite", "image" => "parasite.jpg"],
+        ["title" => "The Gangster, the Cop, the Devil", "image" => "gangster_cop_devil.jpg"],
+        ["title" => "Unlocked", "image" => "unlocked.jpg"],
+        ["title" => "Alive", "image" => "alive.jpg"],
+        ["title" => "Train to Busan", "image" => "train_to_busan.jpg"]
+    ]
+];
+
+
 $accounts = array(
     "https://facebook.com",
     "https://instagram.com",
