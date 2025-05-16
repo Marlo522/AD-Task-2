@@ -5,78 +5,42 @@ $navList = [
     ["label" => "Series", "url" => "/about"],
 ];
 
-$tableColumnNames = [
-    "Product Name",
-    "Color",
-    "Category",
-    "Price",
-];
-
-$productList = [
-    [
-        "productName" => "Apple MacBook Pro 17",
-        "details" => [
-            "color" => ["Silver", "Black"],
-            "category" => "Laptop",
-            "price" => 2999,
-        ],
+$kdramas = [
+    "Action" => [
+        ["title" => "Vagabond", "image" => "vagabond.jpg"],
+        ["title" => "Weak Hero Class 2", "image" => "weak_hero_class.jpg"],
+        ["title" => "Black Knight", "image" => "black_knight.jpg"],
+        ["title" => "Study Group", "image" => "study_group.jpg"],
+        ["title" => "Bloodhounds", "image" => "bloodhounds.jpg"]
     ],
-    [
-        "productName" => "Microsoft Surface Pro",
-        "details" => [
-            "color" => ["White", "Black"],
-            "category" => "Laptop",
-            "price" => 1999,
-        ],
+    "Romance" => [
+        ["title" => "Crash Landing on You", "image" => "cloy.jpg"],
+        ["title" => "True Beauty", "image" => "true_beauty.jpg"],
+        ["title" => "Backstreet Rookie", "image" => "backstreet_rookie.jpg"],
+        ["title" => "What's Wrong with Secretary Kim", "image" => "secretary_kim.jpg"],
+        ["title" => "Hometown Cha-Cha-Cha", "image" => "hometown_chachacha.jpg"]
     ],
-    [
-        "productName" => "Dell XPS 13",
-        "details" => [
-            "color" => ["Silver", "White"],
-            "category" => "Laptop",
-            "price" => 1499,
-        ],
+    "Medical" => [
+        ["title" => "Hospital Playlist", "image" => "hospital_playlist.jpg"],
+        ["title" => "Dr. Romantic", "image" => "dr_romantic.jpg"],
+        ["title" => "Doctor Stranger", "image" => "doctor_stranger.jpg"],
+        ["title" => "Resident Playbook", "image" => "resident_playbook.jpg"],
+        ["title" => "Trauma Code", "image" => "trauma_code.jpg"]
     ],
-    [
-        "productName" => "HP Spectre x360",
-        "details" => [
-            "color" => ["Black", "Blue"],
-            "category" => "Laptop",
-            "price" => 1599,
-        ],
+    "Comedy" => [
+        ["title" => "Welcome to Waikiki", "image" => "welcome_waikiki.jpg"],
+        ["title" => "Strong Woman Do Bong Soon", "image" => "strong_woman_dobongsoon.jpg"],
+        ["title" => "Chicken Nugget", "image" => "chicken_nugget.jpg"],
+        ["title" => "Prison Playbook", "image" => "prison_playbook.jpg"],
+        ["title" => "Gaus Electronics", "image" => "gaus_electronics.jpg"]
     ],
-    [
-        "productName" => "Lenovo ThinkPad X1 Carbon",
-        "details" => [
-            "color" => ["Black"],
-            "category" => "Laptop",
-            "price" => 1799,
-        ],
-    ],
-    [
-        "productName" => "Asus ROG Zephyrus G14",
-        "details" => [
-            "color" => ["Gray", "White"],
-            "category" => "Gaming Laptop",
-            "price" => 2199,
-        ],
-    ],
-    [
-        "productName" => "Acer Swift 3",
-        "details" => [
-            "color" => ["Silver"],
-            "category" => "Laptop",
-            "price" => 999,
-        ],
-    ],
-    [
-        "productName" => "Google Pixelbook Go",
-        "details" => [
-            "color" => ["Black", "Pink"],
-            "category" => "Chromebook",
-            "price" => 849,
-        ],
-    ],
+    "Thriller" => [
+        ["title" => "Happiness", "image" => "happiness.jpg"],
+        ["title" => "Sweet Home", "image" => "sweet_home.jpg"],
+        ["title" => "Taxi Driver", "image" => "taxi_driver.jpg"],
+        ["title" => "D.P", "image" => "dp.jpg"],
+        ["title" => "Vincenzo", "image" => "vincenzo.jpg"]
+    ]
 ];
 
 $accounts = array(
