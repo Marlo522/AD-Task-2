@@ -5,7 +5,7 @@ $navList = [
     ["label" => "Series", "url" => "/about"],
 ];
 
-$kdramas = [
+$Series = [
     "Action" => [
         ["title" => "Vagabond", "image" => "vagabond.jpg"],
         ["title" => "Weak Hero Class 2", "image" => "weak_hero_class.jpg"],
