@@ -1,9 +1,8 @@
 <?php
 $navList = [
     ["label" => "Home", "url" => "/"],
-    ["label" => "News", "url" => "/contact"],
-    ["label" => "About Us", "url" => "/about"],
-    ["label" => "Contact Us", "url" => "/contact"],
+    ["label" => "Movies", "url" => "/contact"],
+    ["label" => "Series", "url" => "/about"],
 ];
 
 $tableColumnNames = [
