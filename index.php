@@ -14,6 +14,7 @@ require_once BASE_PATH . '/components/templates/nav.component.php';
 <html>
 <head>
     <title>Jetflix</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
 <?php
