@@ -68,7 +68,7 @@ $Movies = [
     "Comedy" => [
         ["title" => "Extreme Job", "image" => "extreme_job.jpg"],
         ["title" => "Confidential Assignment", "image" => "confidential_assignment.jpg"],
-        ["title" => "Pyschokinesis", "image" => "pyschokinesis.jpg"],
+        ["title" => "Psychokinesis", "image" => "psychokinesis.jpg"],
         ["title" => "Dream", "image" => "dream.jpg"],
         ["title" => "Secret Zoo", "image" => "secret_zoo.jpg"]
     ],
