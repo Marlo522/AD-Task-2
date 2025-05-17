@@ -1,7 +1,7 @@
 <?php
 $navList = [
     ["label" => "Home", "url" => "/index.php"],
-    ["label" => "Movies", "url" => "/contact"],
+    ["label" => "Movies", "url" => "/pages/Movies/index.php"],
     ["label" => "Series", "url" => "/pages/Series/index.php"],
 ];
 
