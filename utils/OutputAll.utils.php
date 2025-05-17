@@ -30,10 +30,9 @@ function AllSeries($series){
 }
 function AllMovies($movies){
     echo '<div class="for-you-grid">';
-    foreach ($movies as $movie => $shows) {
+    foreach ($movies as $genre => $shows) {
         foreach ($shows as $show) {
-            // Add data-genres attribute for filtering
-            echo '<div class="series-card" data-genres="' . htmlspecialchars($genre) . '">';
+            echo '<div class="movies-card" data-genres="' . htmlspecialchars($genre) . '">';
             renderCard($show['title'], $show['image']);
             echo '</div>';
         }

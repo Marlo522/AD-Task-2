@@ -17,6 +17,7 @@ require_once BASE_PATH . '/components/templates/nav.component.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/css/style.css">
+    <script src="/pages/Movies/assets/js/movies.js"></script>
 </head>
 <body>
 <?php
@@ -31,7 +32,7 @@ navHeader($navList);
 <section>
     <h2>Movies</h2>
     <?php
-    AllSeries($Movies);
+    AllMovies($Movies);
     ?>
 </section>
 </body>
