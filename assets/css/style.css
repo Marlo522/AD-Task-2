@@ -58,6 +58,12 @@ h2 {
 .genre-buttons button:hover {
   background: #22223b;
 }
+.genre-buttons button:focus {
+  background-color: #ffb6c1;
+  color: #fff;
+  border: 2px solid #e75480;
+  outline: none;
+}
 h2 {
   color: #e3ce8b;
 }
