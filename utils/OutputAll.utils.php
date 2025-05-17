@@ -15,3 +15,13 @@ function renderForYou($series, $movies) {
     }
     echo '</div>';
 }
+
+function AllSeries($series){
+    echo '<div class="for-you-grid">';
+    foreach ($series as $shows) {
+        foreach ($shows as $show) {
+            renderCard($show['title'], $show['image']);
+        }
+    }
+    echo '<div/>';
+}

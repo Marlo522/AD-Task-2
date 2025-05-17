@@ -16,11 +16,18 @@ require_once BASE_PATH . '/components/templates/nav.component.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
 <?php
 head('Series');
 navHeader($navList);
 ?>
+<section>
+    <h2>Series</h2>
+    <?php
+    AllSeries($Series);
+    ?>
+</section>
 </body>
 </html>
