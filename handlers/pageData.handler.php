@@ -6,6 +6,7 @@ $navList = [
 ];
 
 $Genre = [
+    "All",
     "Action",
     "Romance",
     "Thriller",
