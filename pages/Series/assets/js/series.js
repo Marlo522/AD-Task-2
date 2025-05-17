@@ -2,7 +2,7 @@ window.addEventListener("DOMContentLoaded", function () {
   const genreButtons = document.querySelectorAll(
     ".genre-buttons button[data-genre]"
   );
-  const cards = Array.from(document.querySelectorAll(".movies-card"));
+  const cards = Array.from(document.querySelectorAll(".series-card"));
 
   genreButtons.forEach((btn) => {
     btn.addEventListener("click", function () {
