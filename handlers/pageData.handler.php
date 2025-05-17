@@ -5,6 +5,14 @@ $navList = [
     ["label" => "Series", "url" => "/pages/Series/index.php"],
 ];
 
+$Genre = [
+    "Action",
+    "Romance",
+    "Thriller",
+    "Medical",
+    "Comedy"
+];
+
 $Series = [
     "Action" => [
         ["title" => "Vagabond", "image" => "vagabond.jpg"],
