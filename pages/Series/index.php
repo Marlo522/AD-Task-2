@@ -23,6 +23,11 @@ require_once BASE_PATH . '/components/templates/nav.component.php';
 head('Series');
 navHeader($navList);
 ?>
+<div class="genre-buttons">
+    <?php foreach ($Genre as $genre): ?>
+        <button><?php echo htmlspecialchars($genre); ?></button>
+    <?php endforeach; ?>
+</div>
 <section>
     <h2>Series</h2>
     <?php
