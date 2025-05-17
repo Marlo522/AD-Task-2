@@ -16,11 +16,23 @@ require_once BASE_PATH . '/components/templates/nav.component.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
 <?php
 head('Movies');
 navHeader($navList);
 ?>
+<div class="genre-buttons">
+    <?php foreach ($Genre as $genre): ?>
+        <button data-genre="<?php echo htmlspecialchars($genre); ?>"><?php echo htmlspecialchars($genre); ?></button>
+    <?php endforeach; ?>
+</div>
+<section>
+    <h2>Movies</h2>
+    <?php
+    AllSeries($Movies);
+    ?>
+</section>
 </body>
 </html>

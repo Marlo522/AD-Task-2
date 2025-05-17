@@ -28,3 +28,15 @@ function AllSeries($series){
     }
     echo '</div>';
 }
+function AllMovies($movies){
+    echo '<div class="for-you-grid">';
+    foreach ($movies as $movie => $shows) {
+        foreach ($shows as $show) {
+            // Add data-genres attribute for filtering
+            echo '<div class="series-card" data-genres="' . htmlspecialchars($genre) . '">';
+            renderCard($show['title'], $show['image']);
+            echo '</div>';
+        }
+    }
+    echo '</div>';
+}
