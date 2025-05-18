@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Jetflix is a PHP-based web application that displays a collection of Korean movies and series. Users can browse, filter by genre, and view posters and titles. The project demonstrates PHP component structure, basic routing, and simple frontend filtering with JavaScript.
+  Jetlix is a PHP-based web application that displays a collection of Korean movies and series. Users can browse, filter by genre, and view posters and titles. The project demonstrates PHP component structure, basic routing, and simple frontend filtering with JavaScript.
 
 </div>
 
