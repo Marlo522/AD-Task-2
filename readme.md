@@ -73,7 +73,6 @@ Jetflix is a PHP-based web application that displays a collection of Korean movi
 - Movie and series cards with images and titles
 - Genre filtering for both movies and series (JS)
 - Modular PHP components and utilities
-- Docker support for local development
 
 ### Technology
 
