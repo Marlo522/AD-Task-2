@@ -22,7 +22,7 @@
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/AD-CI4-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Marlo522/AD-Task-2)
 
 [![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
 
@@ -150,8 +150,9 @@ AD-ProjectName
 
 <!-- TODO: Add References -->
 
-| Title        | Purpose                                   | Link                           |
-| ------------ | ----------------------------------------- | ------------------------------ |
-| PHP Manual   | Official PHP documentation                | https://www.php.net/manual/en/ |
-| Tailwind CSS | Utility-first CSS framework documentation | https://tailwindcss.com/docs   |
-| MDN Web Docs | HTML/CSS/JS reference                     | https://developer.mozilla.org/ |
+| Title         | Purpose                                   | Link                           |
+| ------------- | ----------------------------------------- | ------------------------------ |
+| PHP Manual    | Official PHP documentation                | https://www.php.net/manual/en/ |
+| Tailwind CSS  | Utility-first CSS framework documentation | https://tailwindcss.com/docs   |
+| MDN Web Docs  | HTML/CSS/JS reference                     | https://developer.mozilla.org/ |
+| Poster Images | Poster images of movies and series        | https://www.google.co.uk/      |
