@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Marlo522">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="/assets/img/jetlix_logo.png" alt="Jetlix" width="130" height="100">
   </a>
@@ -72,7 +72,6 @@ Jetlix is a PHP-based web application that displays a collection of Korean movie
 - Navigation bar and responsive layout
 - Movie and series cards with images and titles
 - Genre filtering for both movies and series (JS)
-- Modular PHP components and utilities
 
 ### Technology
 
